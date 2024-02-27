@@ -1,6 +1,6 @@
 # YouTube Statistics for 2023
 
-    Data Set: https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023
+    Dataset: https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023
     Year Covered: 2023
 
 ## About
