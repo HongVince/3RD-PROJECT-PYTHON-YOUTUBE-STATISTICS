@@ -18,10 +18,10 @@ This project explores YouTube data for the year 2023 to identify viewership tren
 ## Approach Used
 
 1) **Modules imported:**
-   a) Pandas
-   b) Matplotlib
-   c) Numpy
-   d) Seaborn
+   - Pandas
+   - Matplotlib
+   - Numpy
+   - Seaborn
 
 2) **Bar Charts**
    - The mean of subscribers by category
