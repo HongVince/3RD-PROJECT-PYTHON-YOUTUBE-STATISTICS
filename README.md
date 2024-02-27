@@ -23,13 +23,28 @@ This project explores YouTube data for the year 2023 to identify viewership tren
    - Numpy
    - Seaborn
 
-2) **Bar Charts**
+2) **Bar Chart**
    - The mean of subscribers by category
    - Total number of subscribers by country
    - Average unemployment rate by channel type
    
+3) **Pie Chart**
+   - Channel type distribution
+  
+4) Scatter Plot
+   - Youtuber views against video views
 
+5) Box Chart
+   - Highest earning channel type distribution
+  
+6) Stacked bar chart
+   - Breakdown of subscribers by country and category
+   - Average subscribers by channel type and created year
 
+7) Trend Line
+   - Highest yearly earnings by created year and country
+   - Subscribers accumulation over time
+  
 ## Questions Answered
 
 1) Which countries have the most subscribers?
