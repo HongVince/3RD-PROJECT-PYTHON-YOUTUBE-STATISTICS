@@ -37,7 +37,7 @@ This project explores YouTube data for the year 2023 to identify viewership tren
 5) Box Chart
    - Highest earning channel type distribution
   
-6) Stacked bar chart
+6) Stacked Bar Chart
    - Breakdown of subscribers by country and category
    - Average subscribers by channel type and created year
 
