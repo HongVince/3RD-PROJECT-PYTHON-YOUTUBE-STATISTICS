@@ -30,6 +30,7 @@ This project explores YouTube data for the year 2023 to identify viewership tren
    
 3) **Pie Chart**
    - Channel type distribution
+   - Percentage of highest monthly earings by category
   
 4) Scatter Plot
    - Youtuber views against video views
@@ -44,6 +45,10 @@ This project explores YouTube data for the year 2023 to identify viewership tren
 7) Trend Line
    - Highest yearly earnings by created year and country
    - Subscribers accumulation over time
+   - Average subscribers for the last 30 days
+
+8) Heat Map
+   - Mean subscribers for the last 30 days by channel type and created year
   
 ## Questions Answered
 
@@ -54,14 +59,7 @@ This project explores YouTube data for the year 2023 to identify viewership tren
 5) What is the number of uploads by channel type?
 6) What is the highest earning channel type?
 
-## Analysis: 
+## Observations
 Unsuprisingly, the U.S. has the highest subscriber count, followed by Indonesia, United Arab Emirates, South Korea and Sweden. The mean upload count by category illustrates News and Politcs being considerably higher than other categories, with Nonprofits and Activism following closely behind. Naturally, this statistic makes sense due to YouTube's far-reaching platform.
 
 The Entertainment category has the highest distribution rate. However, this statistic might be inaccurate, due to the nature of this category. Entertainment itself is quite broad, so we can assume that it acts as an umbrella term. With that said, the other channel types that occupy the top 5 include Music, People, Games and Comedy respectively. YouTube has always been 
-
-
-## Conclusion
-
-## Disclaimer
-
-    
