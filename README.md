@@ -24,9 +24,9 @@ This project explores YouTube data for the year 2023 to identify viewership tren
    d) Seaborn
 
 2) **Bar Charts**
-   a) The mean of subscribers by category
-   b) Total number of subscribers by country
-   c) Average unemployment rate by channel type
+   - The mean of subscribers by category
+   - Total number of subscribers by country
+   - Average unemployment rate by channel type
    
 
 
